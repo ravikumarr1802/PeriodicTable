@@ -2,7 +2,7 @@
 
 A simple animation of the Periodic Table using HTML and CSS.
 
-## Installation Instructions
+## Installation Instructions...
 
 1. Clone the repository to your local machine.
 2. Open the index.html file in a web browser.
